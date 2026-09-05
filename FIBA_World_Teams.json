@@ -1,0 +1,52 @@
+{
+  "gameAttributes": {
+    "phase": 0,
+    "season": 2026
+  },
+  "teams": [
+    {"tid": 0, "region": "Spain", "name": "Spain", "abbrev": "ESP", "pop": 80, "strategy": 0},
+    {"tid": 1, "region": "Serbia", "name": "Serbia", "abbrev": "SRB", "pop": 70, "strategy": 0},
+    {"tid": 2, "region": "France", "name": "France", "abbrev": "FRA", "pop": 90, "strategy": 0},
+    {"tid": 3, "region": "Lithuania", "name": "Lithuania", "abbrev": "LTU", "pop": 50, "strategy": 0},
+    {"tid": 4, "region": "Greece", "name": "Greece", "abbrev": "GRE", "pop": 60, "strategy": 0},
+    {"tid": 5, "region": "Germany", "name": "Germany", "abbrev": "GER", "pop": 100, "strategy": 0},
+    {"tid": 6, "region": "Italy", "name": "Italy", "abbrev": "ITA", "pop": 90, "strategy": 0},
+    {"tid": 7, "region": "Slovenia", "name": "Slovenia", "abbrev": "SLO", "pop": 40, "strategy": 0},
+    {"tid": 8, "region": "United States", "name": "USA", "abbrev": "USA", "pop": 150, "strategy": 0},
+    {"tid": 9, "region": "Canada", "name": "Canada", "abbrev": "CAN", "pop": 80, "strategy": 0},
+    {"tid": 10, "region": "Argentina", "name": "Argentina", "abbrev": "ARG", "pop": 70, "strategy": 0},
+    {"tid": 11, "region": "Brazil", "name": "Brazil", "abbrev": "BRA", "pop": 100, "strategy": 0},
+    {"tid": 12, "region": "Japan", "name": "Japan", "abbrev": "JPN", "pop": 110, "strategy": 0},
+    {"tid": 13, "region": "Australia", "name": "Australia", "abbrev": "AUS", "pop": 70, "strategy": 0},
+    {"tid": 14, "region": "China", "name": "China", "abbrev": "CHN", "pop": 150, "strategy": 0},
+    {"tid": 15, "region": "Philippines", "name": "Philippines", "abbrev": "PHI", "pop": 90, "strategy": 0},
+    {"tid": 16, "region": "Nigeria", "name": "Nigeria", "abbrev": "NGR", "pop": 100, "strategy": 0},
+    {"tid": 17, "region": "Angola", "name": "Angola", "abbrev": "ANG", "pop": 50, "strategy": 0}
+  ],
+  "players": [
+    {"firstName": "Pau", "lastName": "Gasol", "tid": 0, "born": {"year": 1998, "loc": "Spain"}, "ratings": [{"hgt": 75, "stre": 70, "spd": 65, "jmp": 68, "endu": 75, "ins": 72, "dnk": 70, "ft": 78, "fg": 74, "tp": 65, "blk": 70, "stl": 60, "drb": 68, "pss": 70, "reb": 75, "pot": 85}], "contract": {"amount": 12000, "exp": 2028}},
+    {"firstName": "Marc", "lastName": "Rubio", "tid": 0, "born": {"year": 2000, "loc": "Spain"}, "ratings": [{"hgt": 70, "stre": 60, "spd": 72, "jmp": 70, "endu": 70, "ins": 65, "dnk": 60, "ft": 80, "fg": 70, "tp": 70, "blk": 50, "stl": 68, "drb": 75, "pss": 80, "reb": 60, "pot": 82}], "contract": {"amount": 10000, "exp": 2028}},
+    {"firstName": "Nikola", "lastName": "Jokic", "tid": 1, "born": {"year": 1997, "loc": "Serbia"}, "ratings": [{"hgt": 82, "stre": 85, "spd": 60, "jmp": 60, "endu": 80, "ins": 85, "dnk": 75, "ft": 85, "fg": 82, "tp": 78, "blk": 70, "stl": 65, "drb": 78, "pss": 90, "reb": 88, "pot": 95}], "contract": {"amount": 15000, "exp": 2028}},
+    {"firstName": "Bogdan", "lastName": "Bogdanovic", "tid": 1, "born": {"year": 1999, "loc": "Serbia"}, "ratings": [{"hgt": 72, "stre": 65, "spd": 70, "jmp": 70, "endu": 75, "ins": 68, "dnk": 65, "ft": 82, "fg": 75, "tp": 85, "blk": 50, "stl": 65, "drb": 72, "pss": 75, "reb": 62, "pot": 86}], "contract": {"amount": 11000, "exp": 2028}},
+    {"firstName": "Victor", "lastName": "Wembanyama", "tid": 2, "born": {"year": 2003, "loc": "France"}, "ratings": [{"hgt": 95, "stre": 75, "spd": 75, "jmp": 85, "endu": 80, "ins": 88, "dnk": 90, "ft": 80, "fg": 82, "tp": 80, "blk": 95, "stl": 75, "drb": 75, "pss": 75, "reb": 90, "pot": 98}], "contract": {"amount": 14000, "exp": 2028}},
+    {"firstName": "Rudy", "lastName": "Gobert", "tid": 2, "born": {"year": 1996, "loc": "France"}, "ratings": [{"hgt": 88, "stre": 90, "spd": 60, "jmp": 75, "endu": 75, "ins": 80, "dnk": 85, "ft": 60, "fg": 78, "tp": 40, "blk": 95, "stl": 55, "drb": 50, "pss": 55, "reb": 92, "pot": 88}], "contract": {"amount": 13000, "exp": 2028}},
+    {"firstName": "Domantas", "lastName": "Sabonis", "tid": 3, "born": {"year": 1998, "loc": "Lithuania"}, "ratings": [{"hgt": 80, "stre": 82, "spd": 68, "jmp": 65, "endu": 82, "ins": 82, "dnk": 75, "ft": 75, "fg": 80, "tp": 60, "blk": 65, "stl": 60, "drb": 75, "pss": 82, "reb": 90, "pot": 90}], "contract": {"amount": 12500, "exp": 2028}},
+    {"firstName": "Giannis", "lastName": "Antetokounmpo", "tid": 4, "born": {"year": 1997, "loc": "Greece"}, "ratings": [{"hgt": 85, "stre": 90, "spd": 88, "jmp": 92, "endu": 88, "ins": 92, "dnk": 95, "ft": 65, "fg": 85, "tp": 60, "blk": 88, "stl": 80, "drb": 85, "pss": 80, "reb": 92, "pot": 96}], "contract": {"amount": 15000, "exp": 2028}},
+    {"firstName": "Dennis", "lastName": "Schroder", "tid": 5, "born": {"year": 1999, "loc": "Germany"}, "ratings": [{"hgt": 68, "stre": 60, "spd": 85, "jmp": 78, "endu": 80, "ins": 70, "dnk": 68, "ft": 82, "fg": 74, "tp": 75, "blk": 40, "stl": 75, "drb": 85, "pss": 82, "reb": 55, "pot": 86}], "contract": {"amount": 10500, "exp": 2028}},
+    {"firstName": "Danilo", "lastName": "Gallinari", "tid": 6, "born": {"year": 1998, "loc": "Italy"}, "ratings": [{"hgt": 78, "stre": 70, "spd": 68, "jmp": 65, "endu": 72, "ins": 75, "dnk": 65, "ft": 88, "fg": 76, "tp": 84, "blk": 55, "stl": 58, "drb": 70, "pss": 72, "reb": 70, "pot": 84}], "contract": {"amount": 9500, "exp": 2028}},
+    {"firstName": "Luka", "lastName": "Doncic", "tid": 7, "born": {"year": 1999, "loc": "Slovenia"}, "ratings": [{"hgt": 77, "stre": 78, "spd": 75, "jmp": 68, "endu": 85, "ins": 88, "dnk": 72, "ft": 78, "fg": 84, "tp": 85, "blk": 60, "stl": 78, "drb": 90, "pss": 95, "reb": 85, "pot": 98}], "contract": {"amount": 15000, "exp": 2028}},
+    {"firstName": "LeBron", "lastName": "James", "tid": 8, "born": {"year": 1990, "loc": "United States"}, "ratings": [{"hgt": 82, "stre": 92, "spd": 85, "jmp": 88, "endu": 90, "ins": 92, "dnk": 90, "ft": 75, "fg": 88, "tp": 82, "blk": 80, "stl": 82, "drb": 88, "pss": 95, "reb": 86, "pot": 95}], "contract": {"amount": 15000, "exp": 2028}},
+    {"firstName": "Stephen", "lastName": "Curry", "tid": 8, "born": {"year": 1992, "loc": "United States"}, "ratings": [{"hgt": 65, "stre": 60, "spd": 85, "jmp": 75, "endu": 88, "ins": 75, "dnk": 65, "ft": 92, "fg": 90, "tp": 98, "blk": 45, "stl": 82, "drb": 90, "pss": 88, "reb": 55, "pot": 92}], "contract": {"amount": 15000, "exp": 2028}},
+    {"firstName": "Shai", "lastName": "Gilgeous-Alexander", "tid": 9, "born": {"year": 1998, "loc": "Canada"}, "ratings": [{"hgt": 76, "stre": 70, "spd": 86, "jmp": 80, "endu": 85, "ins": 88, "dnk": 78, "ft": 88, "fg": 86, "tp": 78, "blk": 70, "stl": 85, "drb": 90, "pss": 85, "reb": 68, "pot": 96}], "contract": {"amount": 14000, "exp": 2028}},
+    {"firstName": "Facundo", "lastName": "Campazzo", "tid": 10, "born": {"year": 1998, "loc": "Argentina"}, "ratings": [{"hgt": 62, "stre": 60, "spd": 82, "jmp": 75, "endu": 80, "ins": 65, "dnk": 55, "ft": 85, "fg": 70, "tp": 75, "blk": 35, "stl": 85, "drb": 82, "pss": 88, "reb": 45, "pot": 83}], "contract": {"amount": 9000, "exp": 2028}},
+    {"firstName": "Bruno", "lastName": "Caboclo", "tid": 11, "born": {"year": 1999, "loc": "Brazil"}, "ratings": [{"hgt": 83, "stre": 75, "spd": 72, "jmp": 82, "endu": 72, "ins": 72, "dnk": 78, "ft": 70, "fg": 72, "tp": 70, "blk": 82, "stl": 60, "drb": 65, "pss": 60, "reb": 78, "pot": 85}], "contract": {"amount": 8500, "exp": 2028}},
+    {"firstName": "Rui", "lastName": "Hachimura", "tid": 12, "born": {"year": 1998, "loc": "Japan"}, "ratings": [{"hgt": 78, "stre": 80, "spd": 75, "jmp": 82, "endu": 78, "ins": 78, "dnk": 82, "ft": 75, "fg": 78, "tp": 76, "blk": 62, "stl": 62, "drb": 70, "pss": 68, "reb": 76, "pot": 88}], "contract": {"amount": 10500, "exp": 2028}},
+    {"firstName": "Yuta", "lastName": "Watanabe", "tid": 12, "born": {"year": 1997, "loc": "Japan"}, "ratings": [{"hgt": 79, "stre": 68, "spd": 74, "jmp": 78, "endu": 75, "ins": 68, "dnk": 70, "ft": 80, "fg": 72, "tp": 80, "blk": 70, "stl": 65, "drb": 68, "pss": 65, "reb": 72, "pot": 82}], "contract": {"amount": 9000, "exp": 2028}},
+    {"firstName": "Patty", "lastName": "Mills", "tid": 13, "born": {"year": 1994, "loc": "Australia"}, "ratings": [{"hgt": 65, "stre": 60, "spd": 80, "jmp": 72, "endu": 82, "ins": 68, "dnk": 60, "ft": 88, "fg": 74, "tp": 85, "blk": 35, "stl": 70, "drb": 75, "pss": 76, "reb": 48, "pot": 82}], "contract": {"amount": 9500, "exp": 2028}},
+    {"firstName": "Josh", "lastName": "Giddey", "tid": 13, "born": {"year": 2002, "loc": "Australia"}, "ratings": [{"hgt": 77, "stre": 70, "spd": 76, "jmp": 72, "endu": 80, "ins": 75, "dnk": 68, "ft": 72, "fg": 75, "tp": 72, "blk": 50, "stl": 72, "drb": 85, "pss": 88, "reb": 80, "pot": 92}], "contract": {"amount": 11500, "exp": 2028}},
+    {"firstName": "Yao", "lastName": "Ming", "tid": 14, "born": {"year": 1995, "loc": "China"}, "ratings": [{"hgt": 90, "stre": 88, "spd": 55, "jmp": 58, "endu": 72, "ins": 85, "dnk": 75, "ft": 86, "fg": 82, "tp": 50, "blk": 88, "stl": 50, "drb": 62, "pss": 68, "reb": 88, "pot": 88}], "contract": {"amount": 11000, "exp": 2028}},
+    {"firstName": "Jordan", "lastName": "Clarkson", "tid": 15, "born": {"year": 1996, "loc": "Philippines"}, "ratings": [{"hgt": 69, "stre": 68, "spd": 84, "jmp": 80, "endu": 80, "ins": 78, "dnk": 75, "ft": 85, "fg": 78, "tp": 80, "blk": 40, "stl": 70, "drb": 82, "pss": 75, "reb": 58, "pot": 86}], "contract": {"amount": 10500, "exp": 2028}},
+    {"firstName": "Precious", "lastName": "Achiuwa", "tid": 16, "born": {"year": 1999, "loc": "Nigeria"}, "ratings": [{"hgt": 79, "stre": 82, "spd": 78, "jmp": 86, "endu": 78, "ins": 76, "dnk": 85, "ft": 62, "fg": 74, "tp": 55, "blk": 78, "stl": 68, "drb": 68, "pss": 60, "reb": 84, "pot": 88}], "contract": {"amount": 9500, "exp": 2028}},
+    {"firstName": "Carlos", "lastName": "Morais", "tid": 17, "born": {"year": 1995, "loc": "Angola"}, "ratings": [{"hgt": 72, "stre": 68, "spd": 75, "jmp": 74, "endu": 75, "ins": 70, "dnk": 68, "ft": 78, "fg": 72, "tp": 74, "blk": 45, "stl": 68, "drb": 72, "pss": 70, "reb": 55, "pot": 80}], "contract": {"amount": 7500, "exp": 2028}}
+  ]
+}
